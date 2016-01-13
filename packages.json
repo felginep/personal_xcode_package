@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "plugins": [
+      {
+        "name": "XToDo_felginep",
+        "url": "https://github.com/felginep/XToDo",
+        "description": "Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`",
+        "screenshot": "http://i.imgur.com/BZk2tSo.png"
+      }
+    ]
+  }
+}
