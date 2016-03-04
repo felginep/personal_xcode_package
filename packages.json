@@ -6,6 +6,12 @@
         "url": "https://github.com/felginep/XToDo",
         "description": "Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`",
         "screenshot": "http://i.imgur.com/BZk2tSo.png"
+      },
+      {
+        "name": "Auto-Importer",
+        "url": "https://github.com/felginep/Auto-Importer-for-Xcode",
+        "description": "A plugin to quickly import your headers on the fly",
+        "screenshot": "https://raw.githubusercontent.com/lucholaf/Auto-Importer-for-Xcode/master/demo.gif"
       }
     ]
   }
